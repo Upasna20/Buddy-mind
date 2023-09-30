@@ -1,2 +1,2 @@
 # Buddy-mind
-Your personal therapist who listens to you
+Your personal therapist who listens to you 🤗!
